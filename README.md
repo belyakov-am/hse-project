@@ -9,6 +9,6 @@ Loss per episode:
 
 <img src="./graphs/Performance_loss.svg">
 
-Reward per episode:
+Mean reward per last 100 episodes:
 
 <img src="./graphs/Performance_reward.svg">
