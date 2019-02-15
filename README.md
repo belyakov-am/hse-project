@@ -7,8 +7,8 @@ Here will be collected implementations of RL algorithms
 
 <p align='center'> <b>Loss per episode:</b> </p>
 
-<img src="./graphs/Performance_loss.svg">
+<img src="./graphs/Performance_loss.png">
 
 <p align='center'> <b>Mean reward per last 100 episodes:</b> </p>
 
-<img src="./graphs/Performance_reward.svg">
+<img src="./graphs/Performance_reward.png">
